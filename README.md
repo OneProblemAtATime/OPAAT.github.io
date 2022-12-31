@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>My Portfolio</title>
-</head>
 <body>
   <h1>Welcome to my portfolio!</h1>
   <p>Here you can find some of my work:</p>
